@@ -5,6 +5,9 @@ This project focuses on creating a comprehensive Bank Loan Report designed to mo
 
 Key Features
 
+**KPIS**
+![bankloananalysis](./myfolder/BAkpis.png)
+
 **Dashboard 1: Summary**
 
 This dashboard offers a summary view of essential Key Performance Indicators (KPIs) related to loan applications, funded amounts, received amounts, and interest rates. It includes:
@@ -34,6 +37,10 @@ A grid view report categorized by 'Loan Status' provides a detailed overview of:
 
 Total Loan Applications, Funded Amount, Received Amount: Metrics tracked Month-to-Date (MTD) and Month-over-Month (MoM).
 
+**DashBoard1**
+
+![bankloananalysis](./myfolder/BA.png)
+
 **Dashboard 2: Overview**
 
 This dashboard visualizes critical loan-related metrics and trends using various chart types:
@@ -49,6 +56,9 @@ Employee Length Analysis (Bar Chart): Illustrates metrics distribution among bor
 Loan Purpose Breakdown (Bar Chart): Provides a visual breakdown of metrics by loan purpose categories.
 
 Home Ownership Analysis (Tree Map): Displays loan metrics categorized by home ownership status.
+
+**Dashboard2**
+![bankloananalysis](./myfolder/BA2.png)
 
 **Dashboard 3: Details**
 
